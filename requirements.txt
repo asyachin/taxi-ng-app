@@ -1,6 +1,6 @@
-Django==5.2.4
-djangorestframework==3.16.0
-django-cors-headers==4.6.0
+Django
+djangorestframework
+django-cors-headers
 channels
 channels-redis
 daphne
