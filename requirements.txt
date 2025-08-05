@@ -1,0 +1,13 @@
+Django==5.2.4
+djangorestframework==3.16.0
+django-cors-headers==4.6.0
+channels
+channels-redis
+daphne
+pytest-asyncio
+pytest-django
+pillow
+djangorestframework-simplejwt
+psycopg[c]
+celery
+openai
